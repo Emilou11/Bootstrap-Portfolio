@@ -26,3 +26,18 @@ header{
     display: flex;
     align-items: center;    
 }
+.btn{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    padding: 32px 16px;
+    border-radius: 8px;
+    background-color: rgb(61, 148, 61);
+}
+
+.btn:hover{
+    
+       background-color: #d6484f;
+        color: white;  
+}
+.lead{
+    text-align: center;
+}
