@@ -41,3 +41,8 @@ header{
 .lead{
     text-align: center;
 }
+
+#contact {
+    text-align: center;
+    background-color: peachpuff;
+}
